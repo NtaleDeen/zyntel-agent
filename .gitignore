@@ -1,0 +1,13 @@
+# Directories to ignore
+__pycache__/
+debug/
+dist/
+images/
+public/
+python/
+
+# Specific files to ignore
+.env
+.last_run
+Zyntel_Fast_Agent_Nakasero.exe
+Zyntel_Slow_Agent_Nakasero.exe
